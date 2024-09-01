@@ -1,0 +1,78 @@
+#container
+{
+    height: 650px;
+    width: 100%;
+    background-color: white;  
+}
+
+#topbox
+{
+    height: 150px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: gray;
+    text-align: center;
+    align-content: center;
+} 
+
+#secondbox
+{
+    height: 490px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+
+#thirdbox
+{
+    height: auto;
+    width: 80%;
+    background-color: white ;
+    margin-right: 10px;
+}
+
+#rightbox
+{
+    height: auto;
+    width: 20%;
+    background-color: blue;
+    text-align: center;
+    align-content: center;
+}  
+
+
+#midbox
+{
+    height:280px;
+    width: 100%;
+    background-color: green;
+    text-align: center;
+    align-content: center;
+} 
+
+
+
+#boxes
+{
+    height: 200px;
+    width: 100%;
+    margin-top: 10px;
+    background-color:white;
+    display: flex;
+    gap:10px;
+
+    
+} 
+
+.bottomboxes
+{
+    height: 100%;
+    width: 100%;
+    background-color:red;
+    text-align: center;
+    align-content: center;
+
+}  
+
+
+
